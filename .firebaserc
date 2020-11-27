@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fire-chat-ddabb": {
+      "hosting": {
+        "firechat": [
+          "fire-chat-ddabb"
+        ]
+      }
+    }
+  }
+}
